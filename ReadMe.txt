@@ -13,4 +13,4 @@ npm run dev
 8) Start extracted python application as usual.
 9) Open 2 or more browser tabs and Enter below URL:
 http://localhost:5173
-10) Start the chat.
+10) Start the chat..
